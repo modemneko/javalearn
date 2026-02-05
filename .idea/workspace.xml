@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="38BvU8iILtjdMGUBDvUOvHyJlNl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/javalearn/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Arithmeticoperator.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArithmeticoperatorDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArithmeticoperatorDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArithmeticoperatorDemo4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArithmeticoperatorDemo5.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArithmeticoperatorDemo6.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.AssingingoperatorDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CompareoperatorDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LogicoperatorDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LogicoperatorDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LogicoperatorDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.main.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="" />
+      <created>1768285793837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768285793837</updated>
+      <workItem from="1768285795876" duration="170000" />
+      <workItem from="1768285986598" duration="1142000" />
+      <workItem from="1768287196927" duration="2174000" />
+      <workItem from="1769005134009" duration="4077000" />
+      <workItem from="1769011638427" duration="24942000" />
+      <workItem from="1769695690414" duration="110000" />
+      <workItem from="1769698187716" duration="29409000" />
+      <workItem from="1770192898540" duration="3675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
