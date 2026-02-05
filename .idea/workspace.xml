@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02/src/kru/test/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/kru/test/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/day02/kru/logicoperator/LogicoperatorDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day02/kru/logicoperator/LogicoperatorDemo3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -70,6 +73,7 @@
     "应用程序.Main.executor": "Run",
     "应用程序.Test1.executor": "Run",
     "应用程序.Test2.executor": "Run",
+    "应用程序.Test3.executor": "Run",
     "应用程序.main.executor": "Run"
   }
 }]]></component>
@@ -95,8 +99,17 @@
       <workItem from="1769011638427" duration="24942000" />
       <workItem from="1769695690414" duration="110000" />
       <workItem from="1769698187716" duration="29409000" />
-      <workItem from="1770192898540" duration="5146000" />
+      <workItem from="1770192898540" duration="9385000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1770298358424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770298358424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

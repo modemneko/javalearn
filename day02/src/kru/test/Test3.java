@@ -9,9 +9,19 @@ public class Test3 {
         如果它们的和为 6的倍数。最终结果输出true。
         其他情况都是false。*/
         Scanner input = new Scanner(System.in);
+        System.out.println("请输入第一个数：");
         int a = input.nextInt();
+        System.out.println("请输入第二个数：");
         int b = input.nextInt();
 
-
+        if (a == 6 || b == 6) {
+            if ((a + b) % 6 == 0) {
+                System.out.println(true);
+            } else  {
+                System.out.println(false);
+            }
+        } else {
+            System.out.println(false);
+        }
     }
 }
