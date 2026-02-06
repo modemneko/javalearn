@@ -20,7 +20,7 @@ public class Test3 {
             System.out.println(false);
         } */
 
-        boolean result = (a == 6 || b == 6) || ((a + b) == 6);
+        boolean result = a == 6 || b == 6 || ((a + b) == 6);
 
         System.out.println(result);
     }

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update Test3.java code">
+      <change afterPath="$PROJECT_DIR$/day02/src/kru/ternaryoperator/TernaryoperatorDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/kru/test/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day02/src/kru/test/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/kru/test/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +39,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="38BvU8iILtjdMGUBDvUOvHyJlNl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,9 +75,11 @@
     "应用程序.LogicoperatorDemo2.executor": "Run",
     "应用程序.LogicoperatorDemo3.executor": "Run",
     "应用程序.Main.executor": "Run",
+    "应用程序.TernaryoperatorDemo1.executor": "Run",
     "应用程序.Test1.executor": "Run",
     "应用程序.Test2.executor": "Run",
     "应用程序.Test3.executor": "Run",
+    "应用程序.Test4.executor": "Run",
     "应用程序.main.executor": "Run"
   },
   "keyToStringList": {
@@ -102,7 +110,7 @@
       <workItem from="1769011638427" duration="24942000" />
       <workItem from="1769695690414" duration="110000" />
       <workItem from="1769698187716" duration="29409000" />
-      <workItem from="1770192898540" duration="12344000" />
+      <workItem from="1770192898540" duration="19240000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -128,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770368250728</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update Test3.java code">
+      <option name="closed" value="true" />
+      <created>1770368640799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770368640799</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
