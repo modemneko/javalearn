@@ -14,10 +14,14 @@ public class Test3 {
         System.out.println("请输入第二个数：");
         int b = input.nextInt();
 
-        if ((a == 6 || b == 6) || ((a + b) % 6 == 0)) {
+        /* if ((a == 6 || b == 6) || ((a + b) % 6 == 0)) {
             System.out.println(true);
         } else {
             System.out.println(false);
-        }
+        } */
+
+        boolean result = (a == 6 || b == 6) || ((a + b) == 6);
+
+        System.out.println(result);
     }
 }
