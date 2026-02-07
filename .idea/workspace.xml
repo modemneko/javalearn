@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update Test3.java code">
-      <change afterPath="$PROJECT_DIR$/day02/src/kru/ternaryoperator/TernaryoperatorDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day02/src/kru/test/Test4.java" afterDir="false" />
+    <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update code">
+      <change afterPath="$PROJECT_DIR$/day02/src/kru/test/Test5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/src/kru/test/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day02/src/kru/test/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +78,7 @@
     "应用程序.Test2.executor": "Run",
     "应用程序.Test3.executor": "Run",
     "应用程序.Test4.executor": "Run",
+    "应用程序.Test5.executor": "Run",
     "应用程序.main.executor": "Run"
   },
   "keyToStringList": {
@@ -88,6 +87,19 @@
     ]
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="day03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="day03" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,7 +122,7 @@
       <workItem from="1769011638427" duration="24942000" />
       <workItem from="1769695690414" duration="110000" />
       <workItem from="1769698187716" duration="29409000" />
-      <workItem from="1770192898540" duration="19240000" />
+      <workItem from="1770192898540" duration="24876000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -144,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770368640799</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update code">
+      <option name="closed" value="true" />
+      <created>1770391762551</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770391762551</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +184,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Update Test3.java code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Test3.java code" />
+    <MESSAGE value="Update code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update code" />
   </component>
 </project>
