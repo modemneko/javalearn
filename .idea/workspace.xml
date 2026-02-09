@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day04/src/kru/test/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/src/kru/test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/kru/test/Test6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/day04/kru/test/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day04/kru/test/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/src/kru/test/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/kru/test/Test5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Arithmeticoperator.executor": "Run",
     "应用程序.ArithmeticoperatorDemo2.executor": "Run",
@@ -128,7 +127,7 @@
       <workItem from="1769011638427" duration="24942000" />
       <workItem from="1769695690414" duration="110000" />
       <workItem from="1769698187716" duration="29409000" />
-      <workItem from="1770192898540" duration="36008000" />
+      <workItem from="1770192898540" duration="39343000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -194,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770548226710</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update">
+      <option name="closed" value="true" />
+      <created>1770646640807</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770646640807</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
