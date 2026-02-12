@@ -11,6 +11,14 @@ public class Test15 {
         for (int i = 1; i <= 100; i += 2) {
             sum += i;
         }
+//      方法2
+        /*
+        for (int i = 1; i <= 100; i++) {
+            if (i % 2 == 0) {
+                sum += 1;
+            }
+        }
+         */
         System.out.println("1-100之间的偶数和为：" + sum);
     }
 }
