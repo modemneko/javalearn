@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
+      <change afterPath="$PROJECT_DIR$/day04/src/kru/test/Test16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/kru/test/Test17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/kru/test/Test18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/src/kru/test/Test19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/day04/kru/test/Test15.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day04/kru/test/Test15.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +39,10 @@
     &quot;accountId&quot;: &quot;a33044f4-5dc8-43f1-b42a-62515e6a4d76&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -43,66 +55,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/javalearn/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.Arithmeticoperator.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArithmeticoperatorDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArithmeticoperatorDemo3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArithmeticoperatorDemo4.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArithmeticoperatorDemo5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArithmeticoperatorDemo6.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.AssingingoperatorDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.CompareoperatorDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ForDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.IfDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.IfDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LogicoperatorDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LogicoperatorDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LogicoperatorDemo3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.OrderDemo.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SwitchDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SwitchDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SwitchDemo3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TernaryoperatorDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test12.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test13.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test14.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test15.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test4.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test6.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test7.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test8.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test9.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.main.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/javalearn/src/Main.java",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Arithmeticoperator.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo2.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo3.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo4.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo5.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo6.executor": "Run",
+    "应用程序.AssingingoperatorDemo1.executor": "Run",
+    "应用程序.CompareoperatorDemo1.executor": "Run",
+    "应用程序.ForDemo1.executor": "Run",
+    "应用程序.HelloWorld.executor": "Run",
+    "应用程序.IfDemo1.executor": "Run",
+    "应用程序.IfDemo2.executor": "Run",
+    "应用程序.LogicoperatorDemo1.executor": "Run",
+    "应用程序.LogicoperatorDemo2.executor": "Run",
+    "应用程序.LogicoperatorDemo3.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.OrderDemo.executor": "Run",
+    "应用程序.SwitchDemo1.executor": "Run",
+    "应用程序.SwitchDemo2.executor": "Run",
+    "应用程序.SwitchDemo3.executor": "Run",
+    "应用程序.TernaryoperatorDemo1.executor": "Run",
+    "应用程序.Test1.executor": "Run",
+    "应用程序.Test12.executor": "Run",
+    "应用程序.Test13.executor": "Run",
+    "应用程序.Test14.executor": "Run",
+    "应用程序.Test15.executor": "Run",
+    "应用程序.Test16.executor": "Run",
+    "应用程序.Test17.executor": "Run",
+    "应用程序.Test18.executor": "Run",
+    "应用程序.Test19.executor": "Run",
+    "应用程序.Test2.executor": "Run",
+    "应用程序.Test3.executor": "Run",
+    "应用程序.Test4.executor": "Run",
+    "应用程序.Test5.executor": "Run",
+    "应用程序.Test6.executor": "Run",
+    "应用程序.Test7.executor": "Run",
+    "应用程序.Test8.executor": "Run",
+    "应用程序.Test9.executor": "Run",
+    "应用程序.main.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -130,7 +154,14 @@
       <workItem from="1770733786410" duration="7037000" />
       <workItem from="1770836468626" duration="10187000" />
       <workItem from="1770985279141" duration="771000" />
-      <workItem from="1770995684170" duration="1200000" />
+      <workItem from="1770995684170" duration="5488000" />
+      <workItem from="1771340251385" duration="1673000" />
+      <workItem from="1771484642983" duration="8123000" />
+      <workItem from="1771595794008" duration="605000" />
+      <workItem from="1771746272277" duration="2911000" />
+      <workItem from="1771818586681" duration="2977000" />
+      <workItem from="1771846316739" duration="85000" />
+      <workItem from="1771846416892" duration="935000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -268,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770917139268</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update">
+      <option name="closed" value="true" />
+      <created>1771009929871</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1771009929871</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
