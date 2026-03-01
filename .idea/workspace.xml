@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day05/src/kru/arraydemo/ArrayDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/src/kru/arraydemo/ArrayDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/src/kru/arraydemo/ArrayDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/src/kru/test/ArrTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/src/kru/test/ArrTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/src/kru/test/ArrTest3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/src/kru/test/ArrTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05/src/kru/test/ArrTest2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Arithmeticoperator.executor": "Run",
@@ -89,6 +86,7 @@
     "应用程序.ArithmeticoperatorDemo6.executor": "Run",
     "应用程序.ArrTest1.executor": "Run",
     "应用程序.ArrTest2.executor": "Run",
+    "应用程序.ArrTest3.executor": "Run",
     "应用程序.ArrayDemo1.executor": "Run",
     "应用程序.ArrayDemo2.executor": "Run",
     "应用程序.ArrayDemo4.executor": "Run",
@@ -177,7 +175,8 @@
       <workItem from="1772274993421" duration="647000" />
       <workItem from="1772295329861" duration="1041000" />
       <workItem from="1772365700136" duration="4690000" />
-      <workItem from="1772384742106" duration="1183000" />
+      <workItem from="1772384742106" duration="1398000" />
+      <workItem from="1772386165848" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -347,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772205127376</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Update">
+      <option name="closed" value="true" />
+      <created>1772385979896</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1772385979896</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

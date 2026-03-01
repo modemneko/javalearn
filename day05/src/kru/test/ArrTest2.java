@@ -7,13 +7,13 @@ public class ArrTest2 {
 
         int[] arr1 = {1,2,3,4,5,6,7,8,9,10};
 
-        int sum = 0;
+        int count = 0;
 
         for (int i = 0; i < arr1.length; i++) {
             if (arr1[i] % 3 == 0) {
-                sum += 1;
+                count += 1;
             }
         }
-        System.out.println("数组里面一共有" + sum + "个能被3整除的数字");
+        System.out.println("数组里面一共有" + count + "个能被3整除的数字");
     }
 }
