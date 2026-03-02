@@ -2,31 +2,31 @@ package kru.arraydemo;
 
 public class ArrayDemo4 {
     public static void main(String[] args) {
-        // 定义数组
-        int[] arr = {1, 2, 3, 4, 5};
-        // 获取数组里面所有的元素
-        // 格式：数组名[索引]
+        /*定义一个数组，用来存班级中50个学生的姓名
+        姓名未知，等学生报道之后，再进行添加*/
 
-        /*System.out.println(arr[0]);
+        // 格式：
+        // 数据类型[] 数组名 = new 数据类型[数组长度];
+        // 在创建的时候，由我们自己制定数组的长度，由虚拟机给出默认的初始化值
+
+        String[] arr = new String[50];
+        //添加学生
+        arr[0] = "zhangsan";
+        arr[1] = "lisi";
+        //获取
+        System.out.println(arr[0]);
         System.out.println(arr[1]);
-        System.out.println(arr[2]);
-        System.out.println(arr[3]);
-        System.out.println(arr[4]);*/
+        System.out.println(arr[2]);//打印出来的时候默认初始化值null
 
-        // 利用循环改进代码
-        // 开始条件：0
-        // 结束条件：数组的长度 - 1（最大索引）
-        /*for (int i = 0; i <= 4; i++) {
-            //i: 0 1 2 3 4
-            System.out.println(arr[i]);
-        }*/
-
-        // 在Java当中，关于数组的一个长度属性，length
-        // 调用方式：数组名.length
-        // System.out.println(arr.length);
-        for (int i = 0; i < arr.length; i++) {
-            //i: 0 1 2 3 4
-            System.out.println(arr[i]);
-        }
+        //数组默认初始化值的规律
+        //整数类型：默认初始化值0
+        //小数类型：默认初始化值0.0
+        //字符类型：默认初始化值'\u0000' 空格
+        //布尔类型：默认初始化值false
+        //引用数据类型：默认初始化值 null
+        int[] arr2 = new int[3];
+        System.out.println(arr2[0]);//0
+        System.out.println(arr2[1]);//0
+        System.out.println(arr2[2]);//0
     }
 }
