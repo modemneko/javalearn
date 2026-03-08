@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day05/src/kru/test/ArrTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/src/kru/test/ArrTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/src/kru/test/ArrTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/src/kru/test/ArrTest6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/src/kru/test/ArrTest9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/day06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/src/kru/methoddemo/MethodDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/src/kru/methoddemo/MethodDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/src/kru/methoddemo/MethodDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/src/kru/methoddemo/MethodDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/src/kru/test/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/kru/methoddemo/MethodDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/kru/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/kru/test/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/kru/test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/kru/test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/kru/test/Test6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/day05/kru/arraydemo/ArrayDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day05/kru/arraydemo/ArrayDemo5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +115,8 @@
     "应用程序.Main.executor": "Run",
     "应用程序.MethodDemo1.executor": "Run",
     "应用程序.MethodDemo4.executor": "Run",
+    "应用程序.MethodDemo5.executor": "Run",
+    "应用程序.MethodReloadTest1.executor": "Run",
     "应用程序.MethodTest1.executor": "Run",
     "应用程序.OrderDemo.executor": "Run",
     "应用程序.SkipLoopDemo1.executor": "Run",
@@ -201,7 +196,7 @@
       <workItem from="1772447463869" duration="2008000" />
       <workItem from="1772461556008" duration="2928000" />
       <workItem from="1772609533793" duration="29846000" />
-      <workItem from="1772795418347" duration="20846000" />
+      <workItem from="1772795418347" duration="31045000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -395,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772443505020</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Update">
+      <option name="closed" value="true" />
+      <created>1772952093964</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1772952093964</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
