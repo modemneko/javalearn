@@ -10,7 +10,7 @@ public class Test6 {
     }
 
     public static int getMax(int[] arr) {
-        int max = 0;
+        int max = arr[0];
         for (int i : arr) {
             if (max < i) {
                 max = i;
