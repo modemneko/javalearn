@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day06/src/kru/test/Test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/day07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/kru/test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/kru/test/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/kru/test/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/kru/test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/kru/test/Test5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/day06/kru/test/Test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day06/kru/test/Test8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/src/kru/test/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07/src/kru/test/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/day07/kru/test/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day07/kru/test/Test3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +149,7 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.Test5">
     <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kru.test.Test3" />
       <module name="day07" />
@@ -165,8 +163,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kru.test.Test5" />
+      <module name="day07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kru.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Test5" />
         <item itemvalue="应用程序.Test3" />
       </list>
     </recent_temporary>
@@ -217,7 +229,8 @@
       <workItem from="1772447463869" duration="2008000" />
       <workItem from="1772461556008" duration="2928000" />
       <workItem from="1772609533793" duration="29846000" />
-      <workItem from="1772795418347" duration="71858000" />
+      <workItem from="1772795418347" duration="73226000" />
+      <workItem from="1773300713698" duration="12951000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -443,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773063165798</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Update">
+      <option name="closed" value="true" />
+      <created>1773295319640</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1773295319640</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

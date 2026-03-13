@@ -14,6 +14,7 @@ public class Test3 {
         char[] az = new char[26*2];
 
         for (int i = 0; i < 26; i++) {
+            // ASCII码表 转换
             az[i] = (char)('a' + i);
             az[i + 26] = (char)('A' + i);
         }
