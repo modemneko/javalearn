@@ -47,5 +47,8 @@ public class Test5 {
         }
         // 输出平均值
         System.out.println("选手的得分：" + (sum / 4));
+
+        // 方法2
+        // (总和 - 最大值 - 最小值) / 4
     }
 }
