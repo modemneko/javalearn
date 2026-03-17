@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-code/oop-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test1/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test1/PhoneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test2/GirlFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test2/GirlFriendTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twodimensionarr/src/kru/test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twodimensionarr/src/kru/twodimension/TwoDimensionDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twodimensionarr/src/kru/twodimension/TwoDimensionDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twodimensionarr/twodimensionarr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test2/StringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/src/kru/test/Test12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/oop-code/kru/test2/GirlFriendTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/oop-code/kru/test2/GirlFriendTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +75,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Arithmeticoperator.executor": "Run",
@@ -128,6 +119,7 @@
     "应用程序.PhoneTest.executor": "Run",
     "应用程序.SkipLoopDemo1.executor": "Run",
     "应用程序.SkipLoopDemo2.executor": "Run",
+    "应用程序.StringTest.executor": "Run",
     "应用程序.SwitchDemo1.executor": "Run",
     "应用程序.SwitchDemo2.executor": "Run",
     "应用程序.SwitchDemo3.executor": "Run",
@@ -248,7 +240,7 @@
       <workItem from="1772609533793" duration="29846000" />
       <workItem from="1772795418347" duration="73226000" />
       <workItem from="1773300713698" duration="57641000" />
-      <workItem from="1773650317808" duration="16757000" />
+      <workItem from="1773650317808" duration="19400000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -514,7 +506,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773653279055</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Update">
+      <option name="closed" value="true" />
+      <created>1773757435138</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1773757435138</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
