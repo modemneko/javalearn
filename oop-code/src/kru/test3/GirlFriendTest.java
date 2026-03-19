@@ -5,7 +5,7 @@ public class GirlFriendTest {
         // 创建女朋友的对象
         GirlFriend gf1 = new GirlFriend();
         gf1.setName("小诗诗");
-        gf1.setAge(-18);
+        gf1.setAge(18);
         gf1.setGender("女");
 
         System.out.println(gf1.getName());
