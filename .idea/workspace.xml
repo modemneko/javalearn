@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test2/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test3/GirlFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test3/GirlFriendTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test3/StringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/oop-code/kru/test2/GirlFriendTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/oop-code/kru/test2/GirlFriendTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +67,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/javalearn/oop-code/src/kru/test3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -154,6 +156,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javalearn\oop-code\src\kru\test3" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="kru.test" />
     </key>
