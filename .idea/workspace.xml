@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
+      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test5/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-code/src/kru/test3/GirlFriend.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-code/src/kru/test3/GirlFriend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-code/src/kru/test3/GirlFriendTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-code/src/kru/test3/GirlFriendTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-code/src/kru/test4/GirlFriend.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-code/src/kru/test4/GirlFriend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-code/src/kru/test4/GirlFriendTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-code/src/kru/test4/GirlFriendTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +121,7 @@
     "应用程序.SkipLoopDemo1.executor": "Run",
     "应用程序.SkipLoopDemo2.executor": "Run",
     "应用程序.StringTest.executor": "Run",
+    "应用程序.StudentTest.executor": "Run",
     "应用程序.SwitchDemo1.executor": "Run",
     "应用程序.SwitchDemo2.executor": "Run",
     "应用程序.SwitchDemo3.executor": "Run",
@@ -167,7 +166,7 @@
       <recent name="kru.test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.kru.test3.GirlFriendTest">
+  <component name="RunManager">
     <configuration name="GirlFriendTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kru.test4.GirlFriendTest" />
       <module name="oop-code" />
@@ -559,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773904098969</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Update">
+      <option name="closed" value="true" />
+      <created>1773907054443</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1773907054443</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
