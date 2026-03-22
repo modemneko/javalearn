@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test5/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test5/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/day09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/kru/test1/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/kru/test1/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/kru/test2/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/kru/test2/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/kru/test2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/kru/test3/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/kru/test3/GoodsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/kru/test4/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test6/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/oop-code/kru/test5/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/oop-code/kru/test5/StudentTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +76,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/javalearn/oop-code/src/kru/test4",
+    "last_opened_file_path": "D:/javalearn/day09/src/kru/test2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,7 +86,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Arithmeticoperator.executor": "Run",
@@ -99,7 +109,9 @@
     "应用程序.AssingingoperatorDemo1.executor": "Run",
     "应用程序.CompareoperatorDemo1.executor": "Run",
     "应用程序.ForDemo1.executor": "Run",
-    "应用程序.GirlFriendTest.executor": "Run",
+    "应用程序.GameTest.executor": "Run",
+    "应用程序.GirlFriendTest.executor": "Debug",
+    "应用程序.GoodsTest.executor": "Run",
     "应用程序.HelloWorld.executor": "Run",
     "应用程序.IfDemo1.executor": "Run",
     "应用程序.IfDemo2.executor": "Run",
@@ -126,6 +138,7 @@
     "应用程序.SwitchDemo2.executor": "Run",
     "应用程序.SwitchDemo3.executor": "Run",
     "应用程序.TernaryoperatorDemo1.executor": "Run",
+    "应用程序.Test.executor": "Run",
     "应用程序.Test1.executor": "Run",
     "应用程序.Test10.executor": "Run",
     "应用程序.Test11.executor": "Run",
@@ -158,6 +171,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javalearn\day09\src\kru\test2" />
       <recent name="D:\javalearn\oop-code\src\kru\test4" />
       <recent name="D:\javalearn\oop-code\src\kru" />
       <recent name="D:\javalearn\oop-code\src\kru\test3" />
@@ -221,8 +235,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.kru.test3.GirlFriendTest" />
         <item itemvalue="应用程序.GirlFriendTest" />
+        <item itemvalue="应用程序.kru.test3.GirlFriendTest" />
         <item itemvalue="应用程序.Test3" />
         <item itemvalue="应用程序.Test5" />
       </list>
@@ -277,6 +291,10 @@
       <workItem from="1772795418347" duration="73226000" />
       <workItem from="1773300713698" duration="57641000" />
       <workItem from="1773650317808" duration="19400000" />
+      <workItem from="1774069887720" duration="1201000" />
+      <workItem from="1774107667316" duration="1196000" />
+      <workItem from="1774148837630" duration="4990000" />
+      <workItem from="1774154712878" duration="9173000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -566,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773907054443</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Update">
+      <option name="closed" value="true" />
+      <created>1773966913613</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1773966913613</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
