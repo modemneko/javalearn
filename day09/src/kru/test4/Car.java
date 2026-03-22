@@ -6,13 +6,13 @@ public class Car {
     创建三个汽车对象，数据通过键盘录入而来，并把数据存入到数组当中。*/
 
     private String brand;
-    private double price;
+    private int price;
     private String color;
 
     public Car() {
     }
 
-    public Car(String brand, double price, String color) {
+    public Car(String brand, int price, String color) {
         this.brand = brand;
         this.price = price;
         this.color = color;
@@ -26,11 +26,11 @@ public class Car {
         this.brand = brand;
     }
 
-    public double getPrice() {
+    public int getPrice() {
         return price;
     }
 
-    public void setPrice(double price) {
+    public void setPrice(int price) {
         this.price = price;
     }
 

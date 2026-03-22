@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day09/day09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/kru/test1/GameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/kru/test1/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/kru/test2/GameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/kru/test2/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/kru/test2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/kru/test3/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/kru/test3/GoodsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/kru/test4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-code/src/kru/test6/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/kru/test4/CarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/oop-code/kru/test5/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/oop-code/kru/test5/StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day09/src/kru/test4/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/day09/src/kru/test4/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +97,7 @@
     "应用程序.ArrayDemo4.executor": "Run",
     "应用程序.ArrayDemo5.executor": "Run",
     "应用程序.AssingingoperatorDemo1.executor": "Run",
+    "应用程序.CarTest.executor": "Run",
     "应用程序.CompareoperatorDemo1.executor": "Run",
     "应用程序.ForDemo1.executor": "Run",
     "应用程序.GameTest.executor": "Run",
@@ -294,7 +285,7 @@
       <workItem from="1774069887720" duration="1201000" />
       <workItem from="1774107667316" duration="1196000" />
       <workItem from="1774148837630" duration="4990000" />
-      <workItem from="1774154712878" duration="9173000" />
+      <workItem from="1774154712878" duration="13176000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -592,7 +583,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773966913613</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Update">
+      <option name="closed" value="true" />
+      <created>1774181888358</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1774181888358</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
