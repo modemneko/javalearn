@@ -24,12 +24,15 @@ public class PhoneTest {
         phones[1] = p2;
         phones[2] = p3;
 
-        double sum = 0;
+        double avg = 0.0;
 
         for (int i = 0; i < phones.length; i++) {
             System.out.println(
                     "品牌：" + phones[i].getBrand() + "价格："+ phones[i].getPrice()+" 颜色：" + phones[i].getColor()
             );
+            avg =+ phones[i].getPrice() ;
         }
+        double avgResult = avg / phones.length;
+        System.out.printf("计算后的手机平均价格：%.2f \n", avgResult);
     }
 }
