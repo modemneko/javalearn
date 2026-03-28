@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day09/src/kru/test7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/kru/test7/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/kru/test8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/kru/test8/StudentTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/day09/kru/test7/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day09/kru/test7/StudentTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/javalearn/day09/src/kru/test2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javalearn/day09/src/kru/test8&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -125,6 +126,7 @@
     &quot;应用程序.SkipLoopDemo2.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.StringTest.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StudentTest2.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.SwitchDemo1.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.SwitchDemo2.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.SwitchDemo3.executor&quot;: &quot;Run&quot;,
@@ -163,6 +165,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javalearn\day09\src\kru\test8" />
       <recent name="D:\javalearn\day09\src\kru\test2" />
       <recent name="D:\javalearn\oop-code\src\kru\test4" />
       <recent name="D:\javalearn\oop-code\src\kru" />
@@ -289,7 +292,9 @@
       <workItem from="1774154712878" duration="17410000" />
       <workItem from="1774196458795" duration="10577000" />
       <workItem from="1774280619271" duration="697000" />
-      <workItem from="1774350000473" duration="17185000" />
+      <workItem from="1774350000473" duration="26282000" />
+      <workItem from="1774668476514" duration="1261000" />
+      <workItem from="1774684752780" duration="9129000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -635,7 +640,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774277641116</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Update">
+      <option name="closed" value="true" />
+      <created>1774494790480</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1774494790480</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
