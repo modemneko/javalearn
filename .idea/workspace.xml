@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/day10/kru/stringdemo/StringDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day10/kru/stringdemo/StringDemo1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +129,8 @@
     "应用程序.StringDemo3.executor": "Run",
     "应用程序.StringDemo4.executor": "Run",
     "应用程序.StringDemo5.executor": "Run",
+    "应用程序.StringDemo6.executor": "Run",
+    "应用程序.StringDemo7.executor": "Run",
     "应用程序.StringTest.executor": "Run",
     "应用程序.StudentTest.executor": "Run",
     "应用程序.StudentTest2.executor": "Run",
@@ -196,6 +196,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kru.stringdemo.StringDemo6" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kru.stringdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kru.test.Test3" />
       <module name="day07" />
@@ -237,6 +250,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.StringDemo6" />
         <item itemvalue="应用程序.GirlFriendTest" />
         <item itemvalue="应用程序.kru.test3.GirlFriendTest" />
         <item itemvalue="应用程序.Test3" />
@@ -306,7 +320,8 @@
       <workItem from="1775043577516" duration="13666000" />
       <workItem from="1775383876688" duration="847000" />
       <workItem from="1775487460086" duration="5621000" />
-      <workItem from="1775646571990" duration="2240000" />
+      <workItem from="1775646571990" duration="2474000" />
+      <workItem from="1775701446098" duration="5517000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -676,7 +691,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775131944620</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Update">
+      <option name="closed" value="true" />
+      <created>1775701349160</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1775701349160</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
