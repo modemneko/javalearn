@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day10/day10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/apidemo/ScannerDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/day10/kru/stringdemo/StringDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day10/kru/stringdemo/StringDemo1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +127,10 @@
     "应用程序.SkipLoopDemo1.executor": "Run",
     "应用程序.SkipLoopDemo2.executor": "Run",
     "应用程序.StringDemo1.executor": "Run",
+    "应用程序.StringDemo2.executor": "Run",
+    "应用程序.StringDemo3.executor": "Run",
+    "应用程序.StringDemo4.executor": "Run",
+    "应用程序.StringDemo5.executor": "Run",
     "应用程序.StringTest.executor": "Run",
     "应用程序.StudentTest.executor": "Run",
     "应用程序.StudentTest2.executor": "Run",
@@ -298,7 +303,10 @@
       <workItem from="1774668476514" duration="1261000" />
       <workItem from="1774684752780" duration="19100000" />
       <workItem from="1774957479671" duration="1907000" />
-      <workItem from="1775043577516" duration="6071000" />
+      <workItem from="1775043577516" duration="13666000" />
+      <workItem from="1775383876688" duration="847000" />
+      <workItem from="1775487460086" duration="5621000" />
+      <workItem from="1775646571990" duration="2240000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -660,7 +668,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774709745729</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Update">
+      <option name="closed" value="true" />
+      <created>1775131944620</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1775131944620</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
