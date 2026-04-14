@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Arithmeticoperator.executor": "Run",
@@ -125,12 +125,16 @@
     "应用程序.SkipLoopDemo1.executor": "Run",
     "应用程序.SkipLoopDemo2.executor": "Run",
     "应用程序.StringDemo1.executor": "Run",
+    "应用程序.StringDemo10.executor": "Run",
+    "应用程序.StringDemo11.executor": "Run",
     "应用程序.StringDemo2.executor": "Run",
     "应用程序.StringDemo3.executor": "Run",
     "应用程序.StringDemo4.executor": "Run",
     "应用程序.StringDemo5.executor": "Run",
     "应用程序.StringDemo6.executor": "Run",
     "应用程序.StringDemo7.executor": "Run",
+    "应用程序.StringDemo8.executor": "Run",
+    "应用程序.StringDemo9.executor": "Run",
     "应用程序.StringTest.executor": "Run",
     "应用程序.StudentTest.executor": "Run",
     "应用程序.StudentTest2.executor": "Run",
@@ -321,7 +325,8 @@
       <workItem from="1775383876688" duration="847000" />
       <workItem from="1775487460086" duration="5621000" />
       <workItem from="1775646571990" duration="2474000" />
-      <workItem from="1775701446098" duration="5517000" />
+      <workItem from="1775701446098" duration="11441000" />
+      <workItem from="1775969031523" duration="9638000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -699,7 +704,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775701349160</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Update">
+      <option name="closed" value="true" />
+      <created>1775743683466</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1775743683466</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
