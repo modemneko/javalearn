@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringbuilderdemo/StringBuilderDemo1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringbuilderdemo/StringBuilderDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringdemo/StringDemo12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/day10/kru/stringdemo/StringDemo11.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day10/kru/stringdemo/StringDemo11.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -127,6 +129,7 @@
     "应用程序.StringDemo1.executor": "Run",
     "应用程序.StringDemo10.executor": "Run",
     "应用程序.StringDemo11.executor": "Run",
+    "应用程序.StringDemo12.executor": "Run",
     "应用程序.StringDemo2.executor": "Run",
     "应用程序.StringDemo3.executor": "Run",
     "应用程序.StringDemo4.executor": "Run",
@@ -254,8 +257,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.StringDemo6" />
         <item itemvalue="应用程序.GirlFriendTest" />
+        <item itemvalue="应用程序.StringDemo6" />
         <item itemvalue="应用程序.kru.test3.GirlFriendTest" />
         <item itemvalue="应用程序.Test3" />
         <item itemvalue="应用程序.Test5" />
@@ -326,7 +329,9 @@
       <workItem from="1775487460086" duration="5621000" />
       <workItem from="1775646571990" duration="2474000" />
       <workItem from="1775701446098" duration="11441000" />
-      <workItem from="1775969031523" duration="9638000" />
+      <workItem from="1775969031523" duration="11643000" />
+      <workItem from="1776306187772" duration="378000" />
+      <workItem from="1776307710365" duration="2543000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -712,7 +717,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775743683466</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Update">
+      <option name="closed" value="true" />
+      <created>1776142708822</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1776142708822</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
