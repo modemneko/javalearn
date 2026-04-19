@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringbuilderdemo/StringBuilderDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringbuilderdemo/StringBuilderDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/src/kru/stringbuilderdemo/StringBuilderDemo7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10/src/kru/stringbuilderdemo/StringBuilderDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10/src/kru/stringbuilderdemo/StringBuilderDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/day10/kru/stringbuilderdemo/StringBuilderDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day10/kru/stringbuilderdemo/StringBuilderDemo4.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +129,8 @@
     "应用程序.StringBuilderDemo3.executor": "Run",
     "应用程序.StringBuilderDemo4.executor": "Run",
     "应用程序.StringBuilderDemo5.executor": "Run",
+    "应用程序.StringBuilderDemo6.executor": "Run",
+    "应用程序.StringBuilderDemo7.executor": "Run",
     "应用程序.StringDemo1.executor": "Run",
     "应用程序.StringDemo10.executor": "Run",
     "应用程序.StringDemo11.executor": "Run",
@@ -335,15 +336,8 @@
       <workItem from="1775701446098" duration="11441000" />
       <workItem from="1775969031523" duration="11643000" />
       <workItem from="1776306187772" duration="378000" />
-      <workItem from="1776307710365" duration="5158000" />
-    </task>
-    <task id="LOCAL-00003" summary="Update Test3.java code">
-      <option name="closed" value="true" />
-      <created>1770368250728</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1770368250728</updated>
+      <workItem from="1776307710365" duration="7985000" />
+      <workItem from="1776434609622" duration="7009000" />
     </task>
     <task id="LOCAL-00004" summary="Update Test3.java code">
       <option name="closed" value="true" />
@@ -729,7 +723,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776353625770</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Update">
+      <option name="closed" value="true" />
+      <created>1776354197938</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1776354197938</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
