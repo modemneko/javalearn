@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/test/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/test/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/kru/test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/kru/listdemo/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/kru/listdemo/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/kru/test/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/kru/test/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/day10/kru/test/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day10/kru/test/Test1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +100,8 @@
     &quot;应用程序.ArrayDemo2.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.ArrayDemo4.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.ArrayDemo5.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArrayListDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArrayListDemo2.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.AssingingoperatorDemo1.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.CarTest.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.CompareoperatorDemo1.executor&quot;: &quot;Run&quot;,
@@ -198,7 +201,7 @@
       <recent name="kru.test" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.GirlFriendTest">
     <configuration name="GirlFriendTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kru.test4.GirlFriendTest" />
       <module name="oop-code" />
@@ -266,8 +269,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.StringBuilderDemo4" />
         <item itemvalue="应用程序.GirlFriendTest" />
+        <item itemvalue="应用程序.StringBuilderDemo4" />
         <item itemvalue="应用程序.StringDemo6" />
         <item itemvalue="应用程序.kru.test3.GirlFriendTest" />
         <item itemvalue="应用程序.Test3" />
@@ -342,15 +345,10 @@
       <workItem from="1776306187772" duration="378000" />
       <workItem from="1776307710365" duration="7985000" />
       <workItem from="1776434609622" duration="43581000" />
-      <workItem from="1777179887986" duration="1613000" />
-    </task>
-    <task id="LOCAL-00006" summary="Update code">
-      <option name="closed" value="true" />
-      <created>1770479678976</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1770479678976</updated>
+      <workItem from="1777179887986" duration="3647000" />
+      <workItem from="1777193785513" duration="7423000" />
+      <workItem from="1777452825624" duration="3785000" />
+      <workItem from="1777547377410" duration="2009000" />
     </task>
     <task id="LOCAL-00007" summary="Update code">
       <option name="closed" value="true" />
@@ -736,7 +734,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776913154332</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Update">
+      <option name="closed" value="true" />
+      <created>1777181858256</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1777181858256</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
