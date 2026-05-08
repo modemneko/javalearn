@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day11/src/kru/listdemo/ArrayListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/src/kru/listdemo/ArrayListDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/src/kru/test/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11/src/kru/test/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/kru/test/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/kru/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/kru/test/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/kru/test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/kru/test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/kru/test/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11/src/kru/test/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/day11/kru/test/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day11/kru/test/Test2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +204,7 @@
       <recent name="kru.test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.GirlFriendTest">
+  <component name="RunManager">
     <configuration name="GirlFriendTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kru.test4.GirlFriendTest" />
       <module name="oop-code" />
@@ -241,9 +244,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kru.test.Test3" />
-      <module name="day07" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kru.test.Test4" />
+      <module name="day11" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="kru.test.*" />
@@ -269,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Test4" />
         <item itemvalue="应用程序.GirlFriendTest" />
         <item itemvalue="应用程序.StringBuilderDemo4" />
         <item itemvalue="应用程序.StringDemo6" />
         <item itemvalue="应用程序.kru.test3.GirlFriendTest" />
-        <item itemvalue="应用程序.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -348,15 +351,8 @@
       <workItem from="1777179887986" duration="3647000" />
       <workItem from="1777193785513" duration="7423000" />
       <workItem from="1777452825624" duration="3785000" />
-      <workItem from="1777547377410" duration="2009000" />
-    </task>
-    <task id="LOCAL-00007" summary="Update code">
-      <option name="closed" value="true" />
-      <created>1770480083921</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1770480083921</updated>
+      <workItem from="1777547377410" duration="4331000" />
+      <workItem from="1778113564910" duration="10879000" />
     </task>
     <task id="LOCAL-00008" summary="Update">
       <option name="closed" value="true" />
@@ -742,7 +738,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777181858256</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Update">
+      <option name="closed" value="true" />
+      <created>1777612379839</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1777612379839</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -765,6 +769,17 @@
     <MESSAGE value="Update code" />
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day07/src/kru/test/Test8.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
