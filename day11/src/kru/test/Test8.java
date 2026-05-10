@@ -16,16 +16,20 @@ public class Test8 {
         list.add(new Phone("苹果",8000));
         list.add(new Phone("锤子",2999));
 
-        System.out.println("低于3000的手机信息：" + getInfo(list));
+
+        for (int i = 0; i < getInfo(list).size(); i++) {
+            System.out.println(getInfo(list).get(i).getBrand() + " " + getInfo(list).get(i).getPrice());
+        }
     }
 
-    public static String getInfo(ArrayList<Phone> list) {
+    public static ArrayList<Phone> getInfo(ArrayList<Phone> list) {
+        ArrayList<Phone> resultList = new ArrayList<>();
+
         for (int i = 0; i < list.size(); i++) {
             if (list.get(i).getPrice() < 3000) {
-                String info = list.get(i).getBrand() + ", " + list.get(i).getPrice();
-                return info;
+                resultList.add(list.get(i));
             }
         }
-        return "";
+        return resultList;
     }
 }
