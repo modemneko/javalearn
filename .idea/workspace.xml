@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
+      <change afterPath="$PROJECT_DIR$/studentsystem/src/kru/studentsystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studentsystem/src/kru/studentsystem/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studentsystem/studentsystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11/src/kru/test/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11/src/kru/test/Test8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/day11/kru/test/Test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/day11/kru/test/Test8.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,8 +268,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Test4" />
         <item itemvalue="应用程序.GirlFriendTest" />
+        <item itemvalue="应用程序.Test4" />
         <item itemvalue="应用程序.StringBuilderDemo4" />
         <item itemvalue="应用程序.StringDemo6" />
         <item itemvalue="应用程序.kru.test3.GirlFriendTest" />
@@ -347,23 +349,8 @@
       <workItem from="1777452825624" duration="3785000" />
       <workItem from="1777547377410" duration="4331000" />
       <workItem from="1778113564910" duration="17081000" />
-      <workItem from="1778222760325" duration="15702000" />
-    </task>
-    <task id="LOCAL-00011" summary="Update">
-      <option name="closed" value="true" />
-      <created>1770653384689</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1770653384689</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Update">
-      <option name="closed" value="true" />
-      <created>1770658652884</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1770658652884</updated>
+      <workItem from="1778222760325" duration="24296000" />
+      <workItem from="1778474257034" duration="19557000" />
     </task>
     <task id="LOCAL-00013" summary="Update">
       <option name="closed" value="true" />
@@ -741,7 +728,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778320191115</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Update">
+      <option name="closed" value="true" />
+      <created>1778413399319</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1778413399319</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Update">
+      <option name="closed" value="true" />
+      <created>1778470154962</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1778470154962</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
