@@ -7,10 +7,6 @@ public class StudentTest {
     public static void main(String[] args) {
         ArrayList<Student> list = new ArrayList<>();
 
-//        list.add(0, new Student(1, "xiaoli", 18, "beijing"));
-//        list.add(1, new Student(2, "xiaohuang", 19, "beijing"));
-//        list.add(2, new Student(3, "xiaobai", 20, "beijing"));
-
         Scanner sc = new Scanner(System.in);
 
         String menuText =
