@@ -48,9 +48,11 @@ public class StudentTest {
         System.out.print("请输入学生ID：");
         String id = sc.next();// id
 
-        if (studentsList.get(Integer.parseInt(id)).getId().isEmpty()) {
-            System.out.println("没有这个学生信息");
-            return;
+        for (int i = 0; i < studentsList.size(); i++) {
+            if (studentsList.get(i).getId().equals(id)) {
+                System.out.println("已经存在id为"+ id +"的学生！");
+                return;
+            }
         }
 
         System.out.print("请输入学生姓名：");
