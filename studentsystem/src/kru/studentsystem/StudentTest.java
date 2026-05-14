@@ -41,12 +41,18 @@ public class StudentTest {
         }
     }
 
-    public static ArrayList<Student> addStuInfo(ArrayList<Student> studentsList){
+    public static void addStuInfo(ArrayList<Student> studentsList){
         System.out.println("添加学生");
         Scanner sc = new Scanner(System.in);
 
         System.out.print("请输入学生ID：");
         String id = sc.next();// id
+
+        if (studentsList.get(Integer.parseInt(id)).getId().isEmpty()) {
+            System.out.println("没有这个学生信息");
+            return;
+        }
+
         System.out.print("请输入学生姓名：");
         String name = sc.next();// 学生姓名
         System.out.print("请输入学生年龄：");
@@ -56,7 +62,6 @@ public class StudentTest {
 
         studentsList.add(new Student(id, name, age, address));
 
-        return studentsList;
     }
 
     public static boolean delStuInfo(ArrayList<Student> studentsList) {
