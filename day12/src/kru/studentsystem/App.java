@@ -228,7 +228,7 @@ public class App {
         if (target.getIdentify().equals(id) && target.getPhoneNumber().equals(phone)) {
             System.out.print("请输入新的密码：");
             String newPwd = sc.next();
-            // 修改密码（假设User有setPassword方法，若无则需重新构造）
+            // 修改密码
             target.setPassword(newPwd);   // 推荐添加setter
             // 或者：list.set(list.indexOf(target), new User(name, newPwd, id, phone));
             System.out.println("修改成功！");
