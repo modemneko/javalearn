@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
+      <change afterPath="$PROJECT_DIR$/day12/day12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/kru/studentsystem/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/kru/studentsystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/kru/studentsystem/StudentSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12/src/kru/studentsystem/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/studentsystem/kru/studentsystem/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/studentsystem/kru/studentsystem/StudentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentsystem/src/kru/studentsystem/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/studentsystem/src/kru/studentsystem/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentsystem/src/kru/studentsystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11/studentsystem/src/kru/studentsystem/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentsystem/src/kru/studentsystem/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11/studentsystem/src/kru/studentsystem/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentsystem/studentsystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day11/studentsystem/studentsystem.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +87,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.App.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Arithmeticoperator.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.ArithmeticoperatorDemo2.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.ArithmeticoperatorDemo3.executor&quot;: &quot;Run&quot;,
@@ -193,6 +201,9 @@
       <recent name="D:\javalearn\oop-code\src\kru\test4" />
       <recent name="D:\javalearn\oop-code\src\kru" />
       <recent name="D:\javalearn\oop-code\src\kru\test3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javalearn\day11" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="kru.test" />
@@ -348,15 +359,7 @@
       <workItem from="1777547377410" duration="4331000" />
       <workItem from="1778113564910" duration="17081000" />
       <workItem from="1778222760325" duration="24296000" />
-      <workItem from="1778474257034" duration="24078000" />
-    </task>
-    <task id="LOCAL-00017" summary="Update">
-      <option name="closed" value="true" />
-      <created>1770917139268</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1770917139268</updated>
+      <workItem from="1778474257034" duration="69574000" />
     </task>
     <task id="LOCAL-00018" summary="Update">
       <option name="closed" value="true" />
@@ -742,7 +745,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778728203857</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Update">
+      <option name="closed" value="true" />
+      <created>1778730003881</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1778730003881</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
