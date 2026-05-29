@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day13/src/kru/a03staticdemo3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13/src/kru/a03staticdemo3/StudentUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13/src/kru/a03staticdemo3/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/src/kru/a04staticdemo4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/src/kru/a04staticdemo4/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day13/src/kru/a05staticdemo5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,141 +59,142 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/javalearn/day09/src/kru/test8&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/javalearn/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.App.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Arithmeticoperator.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArithmeticoperatorDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArithmeticoperatorDemo3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArithmeticoperatorDemo4.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArithmeticoperatorDemo5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArithmeticoperatorDemo6.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrTest1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrTest2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrTest3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrTest4.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrTest5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrTest6.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrTest9.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayDemo4.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayDemo5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayListDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ArrayListDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.AssingingoperatorDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.CarTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.CompareoperatorDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ForDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.GameTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.GirlFriendTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.GoodsTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.IfDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.IfDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.InfiniteloopDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LogicoperatorDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LogicoperatorDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LogicoperatorDemo3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LoopTest3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LoopTest5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LoopTest7.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.MethodDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.MethodDemo4.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.MethodDemo5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.MethodReloadTest1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.MethodTest1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.OrderDemo.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.PhoneTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SkipLoopDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SkipLoopDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringBuilderDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringBuilderDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringBuilderDemo3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringBuilderDemo4.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringBuilderDemo5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringBuilderDemo6.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringBuilderDemo7.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo10.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo11.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo12.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo4.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo6.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo7.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo8.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringDemo9.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringJoinerDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringJoinerDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StudentTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StudentTest2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SwitchDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SwitchDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.SwitchDemo3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TernaryoperatorDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test10.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test11.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test12.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test13.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test14.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test15.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test16.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test17.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test18.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test19.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test4.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test6.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test7.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test8.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test9.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TestDemo.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TwoDimensionDemo1.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TwoDimensionDemo2.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.kru.test3.GirlFriendTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.kru.test6.GirlFriendTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.main.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/javalearn/day09/src/kru/test8",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/javalearn/src/Main.java",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.AnimalTest.executor": "Run",
+    "应用程序.App.executor": "Run",
+    "应用程序.Arithmeticoperator.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo2.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo3.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo4.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo5.executor": "Run",
+    "应用程序.ArithmeticoperatorDemo6.executor": "Run",
+    "应用程序.ArrTest1.executor": "Run",
+    "应用程序.ArrTest2.executor": "Run",
+    "应用程序.ArrTest3.executor": "Run",
+    "应用程序.ArrTest4.executor": "Run",
+    "应用程序.ArrTest5.executor": "Run",
+    "应用程序.ArrTest6.executor": "Run",
+    "应用程序.ArrTest9.executor": "Run",
+    "应用程序.ArrayDemo1.executor": "Run",
+    "应用程序.ArrayDemo2.executor": "Run",
+    "应用程序.ArrayDemo4.executor": "Run",
+    "应用程序.ArrayDemo5.executor": "Run",
+    "应用程序.ArrayListDemo1.executor": "Run",
+    "应用程序.ArrayListDemo2.executor": "Run",
+    "应用程序.AssingingoperatorDemo1.executor": "Run",
+    "应用程序.CarTest.executor": "Run",
+    "应用程序.CompareoperatorDemo1.executor": "Run",
+    "应用程序.ForDemo1.executor": "Run",
+    "应用程序.GameTest.executor": "Run",
+    "应用程序.GirlFriendTest.executor": "Run",
+    "应用程序.GoodsTest.executor": "Run",
+    "应用程序.HelloWorld.executor": "Run",
+    "应用程序.IfDemo1.executor": "Run",
+    "应用程序.IfDemo2.executor": "Run",
+    "应用程序.InfiniteloopDemo1.executor": "Run",
+    "应用程序.LogicoperatorDemo1.executor": "Run",
+    "应用程序.LogicoperatorDemo2.executor": "Run",
+    "应用程序.LogicoperatorDemo3.executor": "Run",
+    "应用程序.LoopTest3.executor": "Run",
+    "应用程序.LoopTest5.executor": "Run",
+    "应用程序.LoopTest7.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.MethodDemo1.executor": "Run",
+    "应用程序.MethodDemo4.executor": "Run",
+    "应用程序.MethodDemo5.executor": "Run",
+    "应用程序.MethodReloadTest1.executor": "Run",
+    "应用程序.MethodTest1.executor": "Run",
+    "应用程序.OrderDemo.executor": "Run",
+    "应用程序.PhoneTest.executor": "Run",
+    "应用程序.SkipLoopDemo1.executor": "Run",
+    "应用程序.SkipLoopDemo2.executor": "Run",
+    "应用程序.StringBuilderDemo1.executor": "Run",
+    "应用程序.StringBuilderDemo2.executor": "Run",
+    "应用程序.StringBuilderDemo3.executor": "Run",
+    "应用程序.StringBuilderDemo4.executor": "Run",
+    "应用程序.StringBuilderDemo5.executor": "Run",
+    "应用程序.StringBuilderDemo6.executor": "Run",
+    "应用程序.StringBuilderDemo7.executor": "Run",
+    "应用程序.StringDemo1.executor": "Run",
+    "应用程序.StringDemo10.executor": "Run",
+    "应用程序.StringDemo11.executor": "Run",
+    "应用程序.StringDemo12.executor": "Run",
+    "应用程序.StringDemo2.executor": "Run",
+    "应用程序.StringDemo3.executor": "Run",
+    "应用程序.StringDemo4.executor": "Run",
+    "应用程序.StringDemo5.executor": "Run",
+    "应用程序.StringDemo6.executor": "Run",
+    "应用程序.StringDemo7.executor": "Run",
+    "应用程序.StringDemo8.executor": "Run",
+    "应用程序.StringDemo9.executor": "Run",
+    "应用程序.StringJoinerDemo1.executor": "Run",
+    "应用程序.StringJoinerDemo2.executor": "Run",
+    "应用程序.StringTest.executor": "Run",
+    "应用程序.StudentTest.executor": "Run",
+    "应用程序.StudentTest2.executor": "Run",
+    "应用程序.SwitchDemo1.executor": "Run",
+    "应用程序.SwitchDemo2.executor": "Run",
+    "应用程序.SwitchDemo3.executor": "Run",
+    "应用程序.TernaryoperatorDemo1.executor": "Run",
+    "应用程序.Test.executor": "Run",
+    "应用程序.Test1.executor": "Run",
+    "应用程序.Test10.executor": "Run",
+    "应用程序.Test11.executor": "Run",
+    "应用程序.Test12.executor": "Run",
+    "应用程序.Test13.executor": "Run",
+    "应用程序.Test14.executor": "Run",
+    "应用程序.Test15.executor": "Run",
+    "应用程序.Test16.executor": "Run",
+    "应用程序.Test17.executor": "Run",
+    "应用程序.Test18.executor": "Run",
+    "应用程序.Test19.executor": "Run",
+    "应用程序.Test2.executor": "Run",
+    "应用程序.Test3.executor": "Run",
+    "应用程序.Test4.executor": "Run",
+    "应用程序.Test5.executor": "Run",
+    "应用程序.Test6.executor": "Run",
+    "应用程序.Test7.executor": "Run",
+    "应用程序.Test8.executor": "Run",
+    "应用程序.Test9.executor": "Run",
+    "应用程序.TestDemo.executor": "Run",
+    "应用程序.TwoDimensionDemo1.executor": "Run",
+    "应用程序.TwoDimensionDemo2.executor": "Run",
+    "应用程序.kru.test3.GirlFriendTest.executor": "Run",
+    "应用程序.kru.test6.GirlFriendTest.executor": "Run",
+    "应用程序.main.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\javalearn\day09\src\kru\test8" />
@@ -204,7 +210,7 @@
       <recent name="kru.test" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.GirlFriendTest">
+  <component name="RunManager">
     <configuration name="GirlFriendTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kru.test4.GirlFriendTest" />
       <module name="oop-code" />
@@ -355,15 +361,7 @@
       <workItem from="1778113564910" duration="17081000" />
       <workItem from="1778222760325" duration="24296000" />
       <workItem from="1778474257034" duration="97513000" />
-      <workItem from="1779892830574" duration="599000" />
-    </task>
-    <task id="LOCAL-00022" summary="Update">
-      <option name="closed" value="true" />
-      <created>1772385979896</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1772385979896</updated>
+      <workItem from="1779892830574" duration="12342000" />
     </task>
     <task id="LOCAL-00023" summary="Update">
       <option name="closed" value="true" />
@@ -749,7 +747,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779797197686</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Update">
+      <option name="closed" value="true" />
+      <created>1779935129185</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1779935129186</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
