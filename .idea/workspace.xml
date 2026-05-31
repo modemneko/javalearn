@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Husky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Lihua.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Ragdoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Taddy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/AnimalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/oop-extends/kru/a01oopextendsdemo1/AnimalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/oop-extends/kru/a01oopextendsdemo1/AnimalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/oop-extends/kru/a01oopextendsdemo1/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/oop-extends/kru/a01oopextendsdemo1/Dog.class" afterDir="false" />
-    </list>
+    <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +73,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true",
     "应用程序.AnimalTest.executor": "Run",
@@ -361,15 +351,7 @@
       <workItem from="1778113564910" duration="17081000" />
       <workItem from="1778222760325" duration="24296000" />
       <workItem from="1778474257034" duration="97513000" />
-      <workItem from="1779892830574" duration="25366000" />
-    </task>
-    <task id="LOCAL-00024" summary="Update">
-      <option name="closed" value="true" />
-      <created>1772443505020</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1772443505020</updated>
+      <workItem from="1779892830574" duration="25668000" />
     </task>
     <task id="LOCAL-00025" summary="Update">
       <option name="closed" value="true" />
@@ -755,7 +737,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780024941018</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Update">
+      <option name="closed" value="true" />
+      <created>1780215810851</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1780215810851</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
