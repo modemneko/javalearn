@@ -22,12 +22,4 @@ public class Dog extends Animal {
     public void lookupHome() {
         super.lookupHome();
     }
-
-    public void chaijia() {
-        System.out.println("拆家");
-    }
-
-    public void cengceng() {
-        System.out.println("蹭蹭");
-    }
 }

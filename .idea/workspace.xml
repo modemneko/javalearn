@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/day13/src/kru/a04staticdemo4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13/src/kru/a04staticdemo4/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13/src/kru/a05staticdemo5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Husky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Lihua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Ragdoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Taddy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-extends/src/kru/a01oopextendsdemo1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/oop-extends/kru/a01oopextendsdemo1/AnimalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/oop-extends/kru/a01oopextendsdemo1/AnimalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/oop-extends/kru/a01oopextendsdemo1/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/oop-extends/kru/a01oopextendsdemo1/Dog.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,15 +361,7 @@
       <workItem from="1778113564910" duration="17081000" />
       <workItem from="1778222760325" duration="24296000" />
       <workItem from="1778474257034" duration="97513000" />
-      <workItem from="1779892830574" duration="12342000" />
-    </task>
-    <task id="LOCAL-00023" summary="Update">
-      <option name="closed" value="true" />
-      <created>1772386953064</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1772386953064</updated>
+      <workItem from="1779892830574" duration="25366000" />
     </task>
     <task id="LOCAL-00024" summary="Update">
       <option name="closed" value="true" />
@@ -755,7 +747,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779935129186</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Update">
+      <option name="closed" value="true" />
+      <created>1780024941018</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1780024941018</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

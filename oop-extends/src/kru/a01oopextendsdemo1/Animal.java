@@ -11,6 +11,13 @@ public class Animal {
     哈士奇：吃饭、喝水、看家、拆家
     泰迪：吃饭、喝水、看家、蹭一蹭*/
 
+    //权限修饰符：
+    //private：子类就无法访问了
+    //私有：只能在本类中访问
+    //爸爸的私房钱（自己能用）
+    //注意事项：
+    //子类只能访问父类中非私有的成员
+
     private String name;
     private int kilogram;
     private String gender;

@@ -12,49 +12,49 @@ public class AnimalTest {
         哈士奇：吃饭、喝水、看家、拆家
         泰迪：吃饭、喝水、看家、蹭一蹭*/
 
-        Cat buou = new Cat("小布偶", 7, "公的");
+        Ragdoll rd = new Ragdoll("小布偶", 5, "公的");
 
-        buou.eat(); // 吃饭
-        buou.drink(); // 喝水
-        buou.catchFat(); // 抓老鼠
+        rd.eat();
+        rd.drink();
+        rd.catchFat();
 
-        buou.showInfo(); // 属性
-
-        fengeFu();
-
-        Cat lihua = new Cat("小梨花",6,"母的");
-
-        lihua.eat(); // 吃饭
-        lihua.drink(); // 喝水
-        lihua.catchFat(); // 抓老鼠
-
-        lihua.showInfo(); // 属性
+        rd.showInfo();
 
         fengeFu();
 
-        Dog hashiqi = new Dog("破坏王",8,"公的");
+        Lihua lh = new Lihua("小狸花", 6, "母的");
 
-        hashiqi.eat(); // 吃饭
-        hashiqi.drink(); // 喝水
-        hashiqi.lookupHome(); // 看家
-        hashiqi.chaijia(); // 拆家
+        lh.eat();
+        lh.drink();
+        lh.catchFat();
 
-        hashiqi.showInfo(); // 属性
+        lh.showInfo();
 
         fengeFu();
 
-        Dog taidi = new Dog("卷毛",6,"母的");
+        Husky hs = new Husky("破坏王", 8, "母的");
 
-        taidi.eat(); // 吃饭
-        taidi.drink(); // 喝水
-        taidi.lookupHome(); // 看家
-        taidi.cengceng(); // 蹭蹭
+        hs.eat();
+        hs.drink();
+        hs.lookupHome();
+        hs.BreakHome();
 
-        taidi.showInfo(); // 属性
+        hs.showInfo();
+
+        fengeFu();
+
+        Taddy td = new Taddy("卷毛", 6, "母的");
+
+        td.eat();
+        td.drink();
+        td.lookupHome();
+        td.cengceng();
+
+        td.showInfo();
     }
 
     public static void fengeFu() {
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 16; i++) {
             System.out.print("=");
         }
         System.out.println();
