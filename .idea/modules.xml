@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/day13/day13.iml" filepath="$PROJECT_DIR$/day13/day13.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-code/oop-code.iml" filepath="$PROJECT_DIR$/oop-code/oop-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-extends/oop-extends.iml" filepath="$PROJECT_DIR$/oop-extends/oop-extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-final/oop-final.iml" filepath="$PROJECT_DIR$/oop-final/oop-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-jurisdiction/oop-jurisdiction.iml" filepath="$PROJECT_DIR$/oop-jurisdiction/oop-jurisdiction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-package/oop-package.iml" filepath="$PROJECT_DIR$/oop-package/oop-package.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-polymophism/oop-polymophism.iml" filepath="$PROJECT_DIR$/oop-polymophism/oop-polymophism.iml" />
       <module fileurl="file://$PROJECT_DIR$/day11/studentsystem/studentsystem.iml" filepath="$PROJECT_DIR$/day11/studentsystem/studentsystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/twodimensionarr/twodimensionarr.iml" filepath="$PROJECT_DIR$/twodimensionarr/twodimensionarr.iml" />
