@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-final/oop-final.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-final/src/kru/test1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-final/src/kru/test2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-final/src/kru/test2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-package/oop-package.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-package/src/kru/domain1/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-package/src/kru/domain2/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-package/src/kru/test/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-package/src/kru/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-jurisdiction/src/kru/demo1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-jurisdiction/src/kru/demo1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-jurisdiction/src/kru/demo2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-jurisdiction/src/kru/demo2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -371,15 +365,7 @@
       <workItem from="1780491581834" duration="45884000" />
       <workItem from="1780753316710" duration="5513000" />
       <workItem from="1780917932482" duration="1605000" />
-      <workItem from="1780925364670" duration="19729000" />
-    </task>
-    <task id="LOCAL-00031" summary="Update">
-      <option name="closed" value="true" />
-      <created>1773412758405</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1773412758405</updated>
+      <workItem from="1780925364670" duration="25450000" />
     </task>
     <task id="LOCAL-00032" summary="Update">
       <option name="closed" value="true" />
@@ -765,7 +751,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780753577322</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Update">
+      <option name="closed" value="true" />
+      <created>1781231459248</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1781231459248</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
