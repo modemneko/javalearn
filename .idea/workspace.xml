@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-codeblock/src/kru/codeblockdemo1/CodeBlockDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-codeblock/src/kru/codeblockdemo1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-codeblock/src/kru/codeblockdemo2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-codeblock/src/kru/codeblockdemo2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-abstact/oop-abstact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a01abstractdemo1/ATeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a01abstractdemo1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a01abstractdemo1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a01abstractdemo1/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a01abstractdemo1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -366,23 +374,7 @@
       <workItem from="1780491581834" duration="45884000" />
       <workItem from="1780753316710" duration="5513000" />
       <workItem from="1780917932482" duration="1605000" />
-      <workItem from="1780925364670" duration="30650000" />
-    </task>
-    <task id="LOCAL-00033" summary="Update">
-      <option name="closed" value="true" />
-      <created>1773653279055</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1773653279055</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Update">
-      <option name="closed" value="true" />
-      <created>1773757435138</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1773757435138</updated>
+      <workItem from="1780925364670" duration="44683000" />
     </task>
     <task id="LOCAL-00035" summary="Update">
       <option name="closed" value="true" />
@@ -760,7 +752,23 @@
       <option name="project" value="LOCAL" />
       <updated>1781338532366</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Update">
+      <option name="closed" value="true" />
+      <created>1781347690517</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1781347690518</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Update">
+      <option name="closed" value="true" />
+      <created>1781347824357</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1781347824357</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
