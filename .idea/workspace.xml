@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-abstact/oop-abstact.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a01abstractdemo1/ATeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a01abstractdemo1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a01abstractdemo1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a01abstractdemo1/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a01abstractdemo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-abstact/src/kru/a02abstractdemo2/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +22,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="modemneko &lt;xavier.i@aliyun.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -374,15 +369,7 @@
       <workItem from="1780491581834" duration="45884000" />
       <workItem from="1780753316710" duration="5513000" />
       <workItem from="1780917932482" duration="1605000" />
-      <workItem from="1780925364670" duration="44683000" />
-    </task>
-    <task id="LOCAL-00035" summary="Update">
-      <option name="closed" value="true" />
-      <created>1773904098969</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1773904098969</updated>
+      <workItem from="1780925364670" duration="45892000" />
     </task>
     <task id="LOCAL-00036" summary="Update">
       <option name="closed" value="true" />
@@ -768,7 +755,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781347824357</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Update">
+      <option name="closed" value="true" />
+      <created>1781450314870</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1781450314870</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
