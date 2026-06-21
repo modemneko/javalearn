@@ -5,14 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-interface/oop-interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a01interfacedemo1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a01interfacedemo1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a01interfacedemo1/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a01interfacedemo1/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a01interfacedemo1/Swim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a01interfacedemo1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a02interfacedemo2/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a02interfacedemo2/InterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a02interfacedemo2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a03interfacedemo3/Inter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a03interfacedemo3/Inter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a03interfacedemo3/InterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a03interfacedemo3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a04interfacedemo4/Inter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a04interfacedemo4/Inter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a04interfacedemo4/Inter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a04interfacedemo4/InterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a04interfacedemo4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/BasketballSporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/English.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/PingPongCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/PingPongSporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Sporter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -236,6 +247,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GirlFriendTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kru.test4.GirlFriendTest" />
+      <module name="oop-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kru.test4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kru.stringbuilderdemo.StringBuilderDemo4" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kru.stringbuilderdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringBuilderDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kru.stringbuilderdemo.StringBuilderDemo4" />
       <module name="day10" />
@@ -262,12 +299,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kru.stringdemo.StringDemo6" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kru.stringdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kru.test.Test4" />
       <module name="day11" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="kru.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kru.test.Test4" />
+      <module name="day11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kru.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kru.test3.GirlFriendTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kru.test3.GirlFriendTest" />
+      <module name="oop-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kru.test3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,15 +455,9 @@
       <workItem from="1780917932482" duration="1605000" />
       <workItem from="1780925364670" duration="54485000" />
       <workItem from="1781616410679" duration="1826000" />
-      <workItem from="1781675662223" duration="2398000" />
-    </task>
-    <task id="LOCAL-00037" summary="Update">
-      <option name="closed" value="true" />
-      <created>1773966913613</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1773966913613</updated>
+      <workItem from="1781675662223" duration="15369000" />
+      <workItem from="1781798802525" duration="710000" />
+      <workItem from="1782044644575" duration="1845000" />
     </task>
     <task id="LOCAL-00038" summary="Update">
       <option name="closed" value="true" />
@@ -773,7 +843,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781532842654</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Update">
+      <option name="closed" value="true" />
+      <created>1781683569946</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1781683569946</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
