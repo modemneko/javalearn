@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a02interfacedemo2/Inter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a02interfacedemo2/InterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a02interfacedemo2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a03interfacedemo3/Inter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a03interfacedemo3/Inter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a03interfacedemo3/InterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a03interfacedemo3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a04interfacedemo4/Inter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a04interfacedemo4/Inter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a04interfacedemo4/Inter3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a04interfacedemo4/InterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a04interfacedemo4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/BasketballSporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/English.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/PingPongCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/PingPongSporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Sporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/BasketballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/PingPongCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/PingPongCoach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -457,15 +442,7 @@
       <workItem from="1781616410679" duration="1826000" />
       <workItem from="1781675662223" duration="15369000" />
       <workItem from="1781798802525" duration="710000" />
-      <workItem from="1782044644575" duration="1845000" />
-    </task>
-    <task id="LOCAL-00038" summary="Update">
-      <option name="closed" value="true" />
-      <created>1774181888358</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1774181888358</updated>
+      <workItem from="1782044644575" duration="11171000" />
     </task>
     <task id="LOCAL-00039" summary="Update">
       <option name="closed" value="true" />
@@ -851,7 +828,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781683569946</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Update">
+      <option name="closed" value="true" />
+      <created>1782050465053</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1782050465055</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
