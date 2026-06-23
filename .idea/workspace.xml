@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a06interfacedemo6/InterA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a06interfacedemo6/InterAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a06interfacedemo6/InterB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a06interfacedemo6/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a07interfacedemo7/Inter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a07interfacedemo7/InterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a07interfacedemo7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a08interfacedemo8/InterA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a08interfacedemo8/InterB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a08interfacedemo8/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/oop-interface/a05interfacedemo5/BasketballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/oop-interface/a05interfacedemo5/BasketballCoach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a09interfacedemo9/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a09interfacedemo9/InterAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a09interfacedemo9/InterImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,12 +37,12 @@
     &quot;assignee&quot;: &quot;modemneko&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/modemneko/javalearn.git&quot;,
-    &quot;accountId&quot;: &quot;a10cd5ff-63cb-4a93-8b60-07674dbbb327&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/modemneko/javalearn.git",
+    "accountId": "c628aaaa-154f-4399-9812-92cbbd844a8b"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -448,15 +439,7 @@
       <workItem from="1781616410679" duration="1826000" />
       <workItem from="1781675662223" duration="15369000" />
       <workItem from="1781798802525" duration="710000" />
-      <workItem from="1782044644575" duration="16463000" />
-    </task>
-    <task id="LOCAL-00040" summary="Update">
-      <option name="closed" value="true" />
-      <created>1774196585550</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1774196585550</updated>
+      <workItem from="1782044644575" duration="21409000" />
     </task>
     <task id="LOCAL-00041" summary="Update">
       <option name="closed" value="true" />
@@ -842,7 +825,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782136905029</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Update">
+      <option name="closed" value="true" />
+      <created>1782202242468</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1782202242468</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
