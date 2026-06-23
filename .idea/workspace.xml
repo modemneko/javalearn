@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/BasketballCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a06interfacedemo6/InterA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a06interfacedemo6/InterAImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a06interfacedemo6/InterB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a06interfacedemo6/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a07interfacedemo7/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a07interfacedemo7/InterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a07interfacedemo7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a08interfacedemo8/InterA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a08interfacedemo8/InterB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-interface/src/a08interfacedemo8/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/PingPongCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop-interface/src/a05interfacedemo5/PingPongCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/oop-interface/a05interfacedemo5/BasketballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/oop-interface/a05interfacedemo5/BasketballCoach.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -32,7 +39,6 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -442,15 +448,7 @@
       <workItem from="1781616410679" duration="1826000" />
       <workItem from="1781675662223" duration="15369000" />
       <workItem from="1781798802525" duration="710000" />
-      <workItem from="1782044644575" duration="11171000" />
-    </task>
-    <task id="LOCAL-00039" summary="Update">
-      <option name="closed" value="true" />
-      <created>1774187266135</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1774187266135</updated>
+      <workItem from="1782044644575" duration="16463000" />
     </task>
     <task id="LOCAL-00040" summary="Update">
       <option name="closed" value="true" />
@@ -836,7 +834,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782050465055</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Update">
+      <option name="closed" value="true" />
+      <created>1782136905029</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1782136905029</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
