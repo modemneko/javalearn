@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5a2792-8392-4ffc-b027-f4b89faa8eea" name="更改" comment="Update">
-      <change afterPath="$PROJECT_DIR$/oop-innerclass/oop-innerclass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-innerclass/src/kru/a01innerclassdemo1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-innerclass/src/kru/a01innerclassdemo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-innerclass/src/kru/a02innerclassdemo2/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-innerclass/src/kru/a02innerclassdemo2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-innerclass/src/kru/a04innerclassdemo4/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-innerclass/src/kru/a04innerclassdemo4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-innerclass/src/kru/a05innerclassdemo5/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop-innerclass/src/kru/a05innerclassdemo5/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="337" />
+    <option name="cachedIndexableFilesCount" value="339" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -453,15 +443,7 @@
       <workItem from="1782044644575" duration="35862000" />
       <workItem from="1782313866495" duration="55000" />
       <workItem from="1782313941446" duration="235000" />
-      <workItem from="1782314204696" duration="2914000" />
-    </task>
-    <task id="LOCAL-00042" summary="Update">
-      <option name="closed" value="true" />
-      <created>1774240961958</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1774240961958</updated>
+      <workItem from="1782314204696" duration="6171000" />
     </task>
     <task id="LOCAL-00043" summary="Update">
       <option name="closed" value="true" />
@@ -847,7 +829,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782225605810</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Update">
+      <option name="closed" value="true" />
+      <created>1782389647058</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1782389647059</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
